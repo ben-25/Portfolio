@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Variables d'environnement (contient des infos sensibles comme des clés API)
+.env
+.env.local
+.env.production
+
+# Dossier généré par npm run build (inutile sur GitHub, Vercel le recrée)
+build/
+
+# Cache de Vite
+.vite/
