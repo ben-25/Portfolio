@@ -1,0 +1,6 @@
+* {
+    cursor: url("/src/assets/cursor.png"), default;
+    button, .icons{
+        cursor: url("/src/assets/select.png"), pointer !important;
+    };
+}

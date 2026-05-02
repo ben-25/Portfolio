@@ -1,0 +1,23 @@
+.task-bar{
+    display: flex;
+    align-items: center;
+}
+
+.task-button-container{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+}
+
+.time-container{
+    p{
+        margin: 0;
+    };
+    margin-right: 10px;
+    color: white;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+}

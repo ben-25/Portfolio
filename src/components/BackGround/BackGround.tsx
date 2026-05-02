@@ -1,7 +1,7 @@
 import heroBg from '../../assets/hero-background.jpg'
-import './hero.css'
+import './backGround.css'
 
-export function Hero(){
+export function BackGround(){
     return (
         <img className='background' src={heroBg} alt="fond d'ecran" />
     )
