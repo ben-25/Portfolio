@@ -1,3 +1,5 @@
+## Projet Non terminé - En travaux
+
 ## Mon Portfolio — React + TypeScript + Vite
 Un portfolio personnel développé avec React, TypeScript et Vite.
 
